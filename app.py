@@ -1,5 +1,5 @@
 import streamlit as st
-from program import kruskal, prim
+from PROGRAM import kruskal, prim
 
 st.title("Minimum Spanning Tree Visualizer")
 st.write("Compare Prim's and Kruskal's Algorithms")
